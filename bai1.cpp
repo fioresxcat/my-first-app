@@ -1,8 +1,14 @@
 #include<iostream>
-
 using namespace std;
 
-int main() {
-    int a=5; // xyz ajdsadjlsd
-    cout << a;
+void input()  {
+    int n;
+    cin >> n;
+    for (int i=0; i<n; i++) {
+        
+    }
 }
+int main() {
+
+}
+
