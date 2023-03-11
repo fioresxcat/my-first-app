@@ -15,7 +15,7 @@ void input()  {
                 
             } else if (s == 'NUMBER_PEOPLE_BORN_AT') {
                 
-            }
+            } else if (s == "MOST_ALIVE_ANCESTOR")
         }
     }
 }

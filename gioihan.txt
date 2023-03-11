@@ -1,0 +1,7 @@
+bài 1:
+thời gian max: 5s
+bộ nhớ max: 512mb
+
+bai 2:
+thoi gian max: 1s
+bộ nhớ max: 256mb
