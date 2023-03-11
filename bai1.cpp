@@ -34,8 +34,8 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-    freopen("input.inp","r",stdin) ;
-    freopen("input.out","w",stdout) ;
+//freopen("input.inp","r",stdin) ;
+ //   freopen("input.out","w",stdout) ;
 
     int numPeople=0 ;
     vector<int> valDate ;
