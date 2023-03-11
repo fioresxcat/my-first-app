@@ -1,0 +1,14 @@
+bài 2:
+1 mạng truyền thông G bao gồm N máy chủ 1,2,...,N được kết nối vs nhau bởi M đường truyền (2 chiều). Giữa 2 máy chủ i, j có thrrt có đường truyen hoac khong.
+trong truong hop co duong truyen thi c(i, j) la chi phi thue duong truyen nay
+
+1 cong ty cần tinh toan phuong an thue 1 so duong truyen nao do cua mang G de ket noi lien thong với một số máy chủ trong tập R (R là tập con của {1, 2, 3, ..., N})
+Hãy tính toán phương án thuê đường truyền với tổng chi phí thuê là ít nhất
+
+INPUT:
+- dòng 1: 2 soos nguyen duong N và M (1<=N, M<=30)
+- dòng 2 đến M: mỗi dòng ghi 3 số nguyên dương i, j, w: có đường truyền giữa i và j với chi phí w (w=c(i, j))
+- dòng M+2: ghi số nguyên dương K
+- dòng M+3: ghi K số nguyên dương đội một khác nhau là chỉ số của các máy chủ trong R
+
+OUTPUT: ghi ra tổng chi phí nhỏ nhất tìm được
