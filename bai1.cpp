@@ -15,7 +15,7 @@ struct Data
 int convertDate(string date)
 {
     return (date[0]-'0')*(1e7)+(date[1]-'0')*(1e6)+(date[2]-'0')*(1e5)+(date[3]-'0')*(1e4)
-             +(date[5]-'0')*(1e3)+(date[6]-'0')*(1e2)+(date[8]-'0')*10+date[1]-'0' ;
+             +(date[5]-'0')*(1e3)+(date[6]-'0')*(1e2)+(date[8]-'0')*10+date[9]-'0' ;
 }
 int convertID(string str)
 {
